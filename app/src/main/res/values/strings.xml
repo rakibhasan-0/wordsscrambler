@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordsScrambler</string>
+    <string name ="instruction">Unscramble the words by using all letters</string>
+    
+</resources>
